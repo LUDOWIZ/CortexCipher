@@ -1,1 +1,1 @@
-# CortexCipher
+Cryptographic integrity layer for private logs and personal assets. This repository stores SHA-256 fingerprints to establish an immutable timeline and verify document authenticity without exposing raw sensitive data. Each entry serves as a verifiable "Proof of Existence" (PoE) for local files, ensuring zero-knowledge integrity across all private records.
